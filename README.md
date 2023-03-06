@@ -1,16 +1,18 @@
-### Hi there 👋
+### Olá, me chamo Luan Alves
+Iniciante na programção.
 
-<!--
-**Soulzin01/soulzin01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👨🏻‍🎓 Cursando Ciência da Computação no IFCE
+- 👨🏻‍💻 Amo programar
+- 😅 Em busca de oportunidades
+- 🎮 Gamer
+- 💻 Atualmente mais focado em:
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <img width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/> 
+            <img width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" /> 
+            <img width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+          
+ 
+<hr></hr>
+<a href="https://www.instagram.com/soulzin010/" target="_blank" rel="noreferrer noopener" >
+<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" href="https://www.instagram.com/soulzin010/"/>
+</a>
